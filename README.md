@@ -28,3 +28,17 @@ This dashboard is designed for:
 - **Sales and Marketing Teams**: To analyze trends, evaluate campaign effectiveness, and identify growth opportunities.
 - **Regional Managers**: To monitor regional sales performance, compare results, and make localized decisions.
 - **Financial Analysts and Operations Managers**: To analyze profitability, optimize inventory, and improve operational efficiency based on sales data.
+
+## Project Files
+
+- Insight Ventures Dashboard Screenshot.PNG: A Screenshot of the dashboard
+- Insight Ventures.xlsx: The main Excel file containing the dataset, pivot tables, and the dashboard.
+- README.md: Documentation for the project.
+
+## Insights
+- **Seasonal Trends**: There are significant peaks in sales and profit during certain months, specifically June and December.
+- **Product Performance**: "Paseo" and "VTT" are the strongest products in terms of profit, while "Carretera" struggles.
+- **Country Performance**: France and Germany are leading markets, while Mexico lags behind both in terms of sales and profit.
+- **Discount Margins and Profit**: Higher discounts do not always result in higher sales or profits, as seen in the country and product analysis, indicating that discount strategies might need refinement.
+
+  
