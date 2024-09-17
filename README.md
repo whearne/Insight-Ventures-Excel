@@ -1,4 +1,4 @@
-# Sales Performance Dashboard
+# Sales Performance Dashboard    ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ## Overview
 This repository contains a comprehensive dashboard designed to analyse and visualise key metrics related to sales performance, cost efficiency, and market trends. The dashboard provides actionable insights to help businesses make data-driven decisions and optimise their operations.
 
