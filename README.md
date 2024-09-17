@@ -1,15 +1,15 @@
 # Sales Performance Dashboard
 ## Overview
-This repository contains a comprehensive dashboard designed to analyze and visualize key metrics related to sales performance, cost efficiency, and market trends. The dashboard provides actionable insights to help businesses make data-driven decisions and optimize their operations.
+This repository contains a comprehensive dashboard designed to analyse and visualise key metrics related to sales performance, cost efficiency, and market trends. The dashboard provides actionable insights to help businesses make data-driven decisions and optimise their operations.
 
 ## Features
-- **Sales Performance Analysis**: Track and visualize sales trends over time, identify top-performing products, and analyze sales by category and region.
+- **Sales Performance Analysis**: Track and visualise sales trends over time, identify top-performing products, and analyse sales by category and region.
 - **Cost Efficiency**: Monitor cost-related metrics to ensure efficient use of resources and identify areas for cost reduction.
 - **Market Trends**: Stay updated with the latest market trends and compare performance against industry benchmarks.
 ## Dashboard Components
-1. **Sales Trends**: Visualize sales data over selected time periods to identify growth patterns and seasonal trends.
+1. **Sales Trends**: Visualise sales data over selected time periods to identify growth patterns and seasonal trends.
 2. **Top Products**: Highlight the best-performing products based on sales volume and revenue.
-3. **Sales by Category**: Analyze sales distribution across different product categories.
+3. **Sales by Category**: Analyse sales distribution across different product categories.
 4. **Regional Sales Performance**: Compare sales performance across various regions to identify high-performing areas.
 5. **Cost Analysis**: Monitor cost efficiency by tracking expenses and identifying areas for cost savings.
 6. **Market Trends**: Stay informed about market dynamics and compare your performance with industry trends.
@@ -20,14 +20,14 @@ To get started with the dashboard:
 git clone https://github.com/whearne/Insight-Ventures-Excel.git
 
 2. Ensure you have a compatible version of Microsoft Excel to view and interact with the dashboard.
-3. Explore the visualizations and gain insights into your sales performance, cost efficiency, and market trends.
+3. Explore the visualisations and gain insights into your sales performance, cost efficiency, and market trends.
 ## Usage
 This dashboard is designed for:
 
 - **Executive Management**: For strategic decision-making and gaining holistic insights into overall sales performance.
-- **Sales and Marketing Teams**: To analyze trends, evaluate campaign effectiveness, and identify growth opportunities.
+- **Sales and Marketing Teams**: To analyse trends, evaluate campaign effectiveness, and identify growth opportunities.
 - **Regional Managers**: To monitor regional sales performance, compare results, and make localized decisions.
-- **Financial Analysts and Operations Managers**: To analyze profitability, optimize inventory, and improve operational efficiency based on sales data.
+- **Financial Analysts and Operations Managers**: To analyse profitability, optimize inventory, and improve operational efficiency based on sales data.
 
 ## Project Files
 
